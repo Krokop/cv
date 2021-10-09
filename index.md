@@ -1,8 +1,10 @@
 ## Oleh Serbokryl
 
 ### Summary
-More time on design - less time on debug. Team player with self #TOOD add skills
-Have experiance in building team from 0 for a project. Think that company culture build processes and have impact on goals achivement.
+Here some thoughts which are describe me as a person:
+* More time on design - less time on debug.
+* Project/team goals is more important than personal.
+* Company culture build processes and not vice-versa.
 
 
 #### Contacts
@@ -12,8 +14,7 @@ Have experiance in building team from 0 for a project. Think that company cultur
 ---
 
 #### Skills
-* Langs
-  * Python (3.7)
+* Python (3.7)
 * AsyncIO/Multithreaded/Multiprocessing
 * DataBases
   * PostgreSQL
@@ -21,10 +22,12 @@ Have experiance in building team from 0 for a project. Think that company cultur
   * MongoDB
 * Other
   * FastAPI
+  * Kafka
   * Kubernetes
   * Docker
   * Clouds
-  * AWS
+  * AWS (s3, ec2, lamba, athena, aurora)
+  * Azure
  
 
 -----------
@@ -45,16 +48,25 @@ Technology stack:
 * PostgreSQL
 * MSSQL
 * Kubernetes
+* Docker
 * Gitlab CI/CD
 
-Description: Project goal is to prepare platform with ready to use data for DataScience training models and prod scoring. 
+Description: Project goal is to build and support the platform with ready-to-use data for Data Science training models and prod scoring.
 Our team is responsible for product that could:
-* enrich data for more than 1 bl transactions into operatinal DB per day for less than for 10 seconds delay;
+* enrich data for more than 1 bl transactions into operational DB per day for less than for 10 seconds delay from real-time;
 * creating aggregates on streams for external teams;
-* moving data from operatinal to historical DB with consinstansi;
-* providing instruments for CDC
+* providing instruments for CDC;
+* providing instruments for OLAPind on operational and historical DBs;
+* managing replication and consistency from operational to historical DBs;
+* gathering fronted data from clients and preparing for post analyzing
 
-
+As team member I was responsible for:
+* management team with 2 developers and 1 DevOps;
+* participate in planning road maps;
+* communication with external teams for providing APIs;
+* grooming and design new modules and instruments for external teams;
+* helping each team member with setting and achieving personal goals;
+* design infrastructure for new features;
 
 #### Python Engineer 
 
@@ -65,27 +77,36 @@ Company - [PMLAB](https://www.linkedin.com/company/pmlab-global/)
 Technology stack:
 * Python 3.7
 * Kafka
+* Docker
 * PostgreSQL
 * MSSQL
 * Kubernetes
 * Gitlab CI/CD
 
-Description: Our goal were handling risks related to unfair player activities. Heart of the project was modules which are gather, validate, transform, normalize data from all posible company sources. We built product from scrach, that had strict SLA for enriching, processing and retrieving data. 
-My part of that project was adding new data sources, improving CI/CD, generalaze approaches for OLAPing data in operational DB. 
+Description: Our goal was handling risks related to unfair player activities. The heart of the project was modules that gather, validate, transform, normalize data from all possible company sources. We built a product from scratch, that had a strict SLA for enriching, processing, and retrieving data. 
+My part of that project was adding new data sources, improving CI/CD, generalize approaches for OLAPing data in operational DB. 
 
-As member team I was responsible for:
+As team member I was responsible for:
 * enriching new sources;
 * write modules for aggregating data;
-* providing infrastructure as a code;
-* implement CDC in postgres + kakfa
+* providing infrastructure as a code methodology;
+* implement CDC in postgres + kakfa;
 
 #### Python Team Lead
 
-Company -- [TSEH-2.0](https://www.linkedin.com/company/tseh-2-0/about/)
+Company - [TSEH-2.0](https://www.linkedin.com/company/tseh-2-0/about/)
 
 **From 08/2019 to 01/2020**
 
-Description: Company implement projects by client requirements. 
+Description: Two main projects were focus on online sales. Idea was to write projects from scratch with gathered requirements from client. There were two teams with 2 backend and 2 frontend engineers.
+
+Technology stack:
+* Python 3.6
+* Gitlab for CI/CD
+* Django
+* PostgreSQL
+* Docker
+* Azure
 
 Role: I was performing / responsible for following tasks:
 * manage technical meetings, help team to find suitable solution based on requirements;
@@ -102,15 +123,18 @@ Role: I was performing / responsible for following tasks:
 
 #### Python Developer
 
-Company -- [DataArt](https://www.linkedin.com/company/dataart/)
+Company - [DataArt](https://www.linkedin.com/company/dataart/)
 
-**From 05/2017 -- 01/2019
+**From 05/2017 to 01/2019**
 
-Description: I was working on the projects related to ETL processes. I gathered information from different sources, validated, transformed and saved it in databases. Tasks were started according to the schedule, logs were stored for future analysis and alarms in case something would go wrong. I created new features, rewrote old parts of system.
+Description: Project was related to ETL stak, the main goal was gathering information from different sources and provide aggregated data to the client for future assumptions. ETL was based on scheduled python jobs, which were orchestrated by Jenkins.
+Project details under DNA :(
 
 Technology stack:
 * Python 3.6
 * PostgreSQL
+* Docker
+* AWS
 * MongoDB
 * Elasticsearch
 * Pandas
@@ -121,10 +145,78 @@ Technology stack:
 
 #### Python Developer
 
-Company -- [UNITY-BARS](https://www.linkedin.com/company/---unity-bars-/)
+Company - [UNITY-BARS](https://www.linkedin.com/company/---unity-bars-/)
 
-**From 01/2016 -- 04/2017
+**From 01/2016 to 04/2017**
+
+Description:  The main goal of the project was to create platform for users, where they can create tenders and create bids for those tenders. There are a lot of different types of tenders according to laws, every type is separate pyramid package. Pyramid was used as framework, CouchDB was used as database.
+Languages:	 Python
+Tools:  Python 2.7, CouchDB, Redis, Pytest, Nginx, Ansible, Gevent, RobotFramework
+Role:	I was performing / responsible for following tasks:
+* design and implementation of application and its new features;
+* tests creation;
+* communication with client;
+* support application, bug fixing;
+* leading of a small development team;
+* code review.
 
 
+
+#### Full Stack Developer
+
+**From 08/2015 to 03/2016**
+
+Company – [Smart Reading](https://smartreading.ru/)
+
+Description:  The main goal of the project was to create web-application which would allow users to read cropped version of popular books. Admins could upload epub books, create gift certificates, manage users, etc. Django was used as framework, MySQL was used for storing users' information and books. ElasticSearch was used for quick searching
+
+Languages:  Python, JavaScript.
+Tools:  Python 3.4, MySQL Pytest, ElasticSearch, Celery.
+Role:	I was performing / responsible for the following tasks: 
+* refactoring legacy parts with adding new function, unit test achieved as side effects
+* design and implementation of application and its new features;
+* deployment;
+
+
+
+#### Full Stack Developer
+
+**From 04/2015 to 07/2015**
+
+Company -- [Favbet](https://favfir.com/)
+
+Description:  The main idea was to accept cash from customers and create bids for them. System was integrated with third-party service which had had users base, we could work only with authorization users. Terminal was responsible for accepting cash, validation user requisites, and sending information to the server. Server was responsible for working with terminals: getting payments, monitoring, sending updates. with main  One of the main requirement was to fault tolerance. On terminal side we used NodeJS, and JavaScript, on server side - Python and Django.
+
+Languages:  Python, JavaScript.
+Tools:  Django, MySQL, NodeJS, Redis, HTML, CSS, JavaScript, jQuery, PostgreSQL, nginx, uWSGI.
+Role:	I was performing / responsible for the following tasks: 
+* design and implementation of application and its new features;
+* improving CI/CD technics;
+* covering code base with unittests;
+* communication with client;
+* planning and implementing infrastructure for new system parts;
+
+
+#### Full Stack Develope
+
+Company - [E-pay](http://e-pay.com.ua/)
+
+**From 08/2013 to 03/2015**
+
+Description: The main goal of project was to accept payments from customers and pay for the services they had chosen. Terminal was responsible for accepting cash, validation user requisites, and sending information to the server. Server was responsible for working with terminals: getting payments, monitoring, sending updates. One of the main requirement was to fault tolerance. On terminal side we used NodeJS, and JavaScript, on server side - Python and Django.
+
+Languages: Python, JavaScript.
+Tools: Django, MySQL, NodeJS, Redis, HTML, CSS, JavaScript, jQuery, Ajax, PostgreSQL, nginx, uWSGI, Bootstrap 
+Role:	I was performing / responsible for the following tasks: 
+* design and implementation of application and its new features;
+* deployment;
+* tests creation;
+* supporting legacy code.
+
+
+
+## Education:
+* Dnipropetrovsk National University, 2016 — 2019
+* Dnipropetrovsk Rocket-Space Engineering college, 2012 — 2016, Technical Degree in Software Engineering
 
 
