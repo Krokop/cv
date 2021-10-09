@@ -108,6 +108,16 @@ Company -- [DataArt](https://www.linkedin.com/company/dataart/)
 
 Description: I was working on the projects related to ETL processes. I gathered information from different sources, validated, transformed and saved it in databases. Tasks were started according to the schedule, logs were stored for future analysis and alarms in case something would go wrong. I created new features, rewrote old parts of system.
 
+Technology stack:
+* Python 3.6
+* PostgreSQL
+* MongoDB
+* Elasticsearch
+* Pandas
+* boto
+* pillow
+
+
 
 #### Python Developer
 
