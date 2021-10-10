@@ -52,21 +52,21 @@ Technology stack:
 
 Description: Project goal is to build and support the platform with ready-to-use data for Data Science training models and prod scoring.
 
-Our team is responsible for product that can::
+Our team is responsible for product that can:
 * enrich data for more than 1 bl transactions into operational DB per day for less than 10 seconds delay from real-time;
-* creating aggregates on streams for external teams;
-* providing instruments for CDC;
-* providing instruments for OLAPind on operational and historical DBs;
-* managing replication and consistency from operational to historical DBs;
-* gathering fronted data from clients and preparing for post analyzing
+* create aggregates on streams for external teams;
+* provide instruments for CDC;
+* provide instruments for OLAPind on operational and historical DBs;
+* manage replication and consistency from operational to historical DBs;
+* gathere fronted data from clients and preparing for post analyzing
 
 As team member I was responsible for:
-* management team with 2 developers and 1 DevOps;
-* participate in planning road maps;
+* team management with 2 developers and 1 DevOps;
+* participating in planning road maps;
 * communication with external teams for providing APIs;
 * grooming and design new modules and instruments for external teams;
 * helping each team member with setting and achieving personal goals;
-* design infrastructure for new features;
+* designing infrastructure for new features;
 
 #### Python Engineer 
 
@@ -84,7 +84,7 @@ Technology stack:
 * Gitlab CI/CD
 
 Description: Our goal was to handle risks related to unfair player activities. The heart of the project were modules that gather, validate, transform, normalize data from all possible company sources. We built a product from scratch, that had a strict SLA for enriching, processing, and retrieving data. 
-My part of that project was to add new data sources, improv CI/CD, generalize approaches for OLAPing data in operational DB. 
+My part of that project was to add new data sources, improve CI/CD, generalize approaches for OLAPing data in operational DB. 
 
 As team member I was responsible for:
 * enriching new sources;
@@ -186,7 +186,7 @@ Role:	I was performing / responsible for the following tasks:
 
 Company -- [Favbet](https://favfir.com/)
 
-Description:  The main idea was to accept cash from customers and create bids for them. System was integrated with third-party service which had had users base. We could work only with authorization users. Terminal was responsible for accepting cash, validation user requisites, and sending information to the server. Server was responsible for working with terminals: getting payments, monitoring, sending updates. with main  One of the main requirements was to fault tolerance. On terminal side we used NodeJS, and JavaScript, on server side - Python and Django.
+Description:  The main idea was to accept cash from customers and create bids for them. System was integrated with third-party service which had had users base. We could work only with authorization users. Terminals were responsible for accepting cash, validation user requisites, and sending information to the server. Server was responsible for working with terminals: getting payments, monitoring, sending updates. One of the main requirements was to fault tolerance. On terminal side we used NodeJS, and JavaScript, on server side - Python and Django.
 
 Languages:  Python, JavaScript.
 Tools:  Django, MySQL, NodeJS, Redis, HTML, CSS, JavaScript, jQuery, PostgreSQL, nginx, uWSGI.
@@ -205,7 +205,7 @@ Company - [E-pay](http://e-pay.com.ua/)
 
 **From 08/2013 to 03/2015**
 
-Description: The main goal of project was to accept payments from customers and pay for the services they had chosen. Terminal was responsible for accepting cash, validation user requisites, and sending information to the server. Server was responsible for working with terminals: getting payments, monitoring, sending updates. One of the main requirement was to fault tolerance. On terminal side we used NodeJS, and JavaScript, on server side - Python and Django.
+Description: The main goal of project was to accept payments from customers and pay for the services they had chosen. Terminals were responsible for accepting cash, validation user requisites, and sending information to the server. Server was responsible for working with terminals: getting payments, monitoring, sending updates. One of the main requirements was to fault tolerance. On terminal side we used NodeJS, and JavaScript, on server side - Python and Django.
 
 Languages: Python, JavaScript.
 Tools: Django, MySQL, NodeJS, Redis, HTML, CSS, JavaScript, jQuery, Ajax, PostgreSQL, nginx, uWSGI, Bootstrap 
