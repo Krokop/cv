@@ -5,7 +5,7 @@
 ### Summary
 Here some thoughts which are describe me as a person:
 * More time on design - less time on debug.
-* Project/team goals is more important than personal.
+* Project/Team goals is more important than personal.
 * Company culture build processes and not vice-versa.
 
 
@@ -154,6 +154,7 @@ Company - [UNITY-BARS](https://www.linkedin.com/company/---unity-bars-/)
 Description:  The main goal of the project was to create platform for users, where they can create tenders and create bids for those tenders. There are a lot of different types of tenders according to laws, every type is separate pyramid package. Pyramid was used as framework, CouchDB was used as database.
 Languages:	 Python
 Tools:  Python 2.7, CouchDB, Redis, Pytest, Nginx, Ansible, Gevent, RobotFramework
+
 Role:	I was performing / responsible for following tasks:
 * design and implementation of application and its new features;
 * tests creation;
@@ -174,6 +175,7 @@ Description:  The main goal of the project was to create web-application which w
 
 Languages:  Python, JavaScript.
 Tools:  Python 3.4, MySQL Pytest, ElasticSearch, Celery.
+
 Role:	I was performing / responsible for the following tasks: 
 * refactoring legacy parts with adding new function, unit test achieved as side effects
 * design and implementation of application and its new features;
@@ -191,6 +193,7 @@ Description:  The main idea was to accept cash from customers and create bids fo
 
 Languages:  Python, JavaScript.
 Tools:  Django, MySQL, NodeJS, Redis, HTML, CSS, JavaScript, jQuery, PostgreSQL, nginx, uWSGI.
+
 Role:	I was performing / responsible for the following tasks: 
 * design and implementation of application and its new features;
 * improving CI/CD technics;
@@ -209,6 +212,7 @@ Description: The main goal of project was to accept payments from customers and 
 
 Languages: Python, JavaScript.
 Tools: Django, MySQL, NodeJS, Redis, HTML, CSS, JavaScript, jQuery, Ajax, PostgreSQL, nginx, uWSGI, Bootstrap 
+
 Role:	I was performing / responsible for the following tasks: 
 * design and implementation of application and its new features;
 * deployment;
