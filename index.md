@@ -1,9 +1,9 @@
 ![me](/cv/docs/assets/me1.jpg)
 
 ### Summary
-Here some thoughts which are describe me as a person:
+Here are some thoughts which describe me as a person:
 * More time on design - less time on debug.
-* Project/Team goals is more important than personal.
+* Project/Team goals are more important than personal.
 * Company culture build processes and not vice-versa.
 
 
@@ -16,7 +16,7 @@ Here some thoughts which are describe me as a person:
 #### Skills
 * Python (3.7)
 * Concurrent/Multithreaded/Multiprocessing
-* DataBases
+* DBs
   * PostgreSQL
   * Redis
   * MongoDB
@@ -55,8 +55,8 @@ Technology stack:
 
 Description: Project goal is to build and support the platform with ready-to-use data for Data Science training models and prod scoring.
 
-Our team is responsible for product that could:
-* enrich data for more than 1 bl transactions into operational DB per day for less than for 10 seconds delay from real-time;
+Our team is responsible for product that can::
+* enrich data for more than 1 bl transactions into operational DB per day for less than 10 seconds delay from real-time;
 * creating aggregates on streams for external teams;
 * providing instruments for CDC;
 * providing instruments for OLAPind on operational and historical DBs;
@@ -86,14 +86,14 @@ Technology stack:
 * Kubernetes
 * Gitlab CI/CD
 
-Description: Our goal was handling risks related to unfair player activities. The heart of the project was modules that gather, validate, transform, normalize data from all possible company sources. We built a product from scratch, that had a strict SLA for enriching, processing, and retrieving data. 
-My part of that project was adding new data sources, improving CI/CD, generalize approaches for OLAPing data in operational DB. 
+Description: Our goal was to handle risks related to unfair player activities. The heart of the project were modules that gather, validate, transform, normalize data from all possible company sources. We built a product from a scratch, that had a strict SLA for enriching, processing, and retrieving data. 
+My part of that project was to add new data sources, improv CI/CD, generalize approaches for OLAPing data in operational DB. 
 
 As team member I was responsible for:
 * enriching new sources;
-* write modules for aggregating data;
+* writing modules for aggregating data;
 * providing infrastructure as a code methodology;
-* implement CDC in postgres + kakfa;
+* implementing CDC in postgres + kakfa;
 
 #### Python Team Lead
 
@@ -101,7 +101,7 @@ Company - [TSEH-2.0](https://www.linkedin.com/company/tseh-2-0/about/)
 
 **From 08/2019 to 01/2020**
 
-Description: Two main projects were focus on online sales. Idea was to write projects from scratch with gathered requirements from client. There were two teams with 2 backend and 2 frontend engineers.
+Description: Two main projects were focused on online sales. Idea was to write projects from scratch be client requirements. There were two teams with 2 backend and 2 frontend engineers.
 
 Technology stack:
 * Python 3.6
@@ -112,15 +112,14 @@ Technology stack:
 * Azure
 
 Role: I was performing / responsible for following tasks:
-* manage technical meetings, help team to find suitable solution based on requirements;
-* create system design for new projects/features based on gathered requirements;
-* review skills of team members and create plan for filling gaps or exploring new technologies/methodologies;
-* hold workshops for sharing knowledge;
-* add/improve CI/CD for projects, write documentation if need to;
-* create prod environments for customers, based on restrictions(cloud vendor, database, etc)
-* code review PRs
-* investigate in new technologies/methodologies, switching on them if need to.
-* implement different strategies (caching, file storage, error handling, zero down time update, etc)
+* managing technical meetings, helping team to find suitable solution based on requirements;
+* creating system design for new projects/features based on gathered requirements;
+* reviewing skills of team members and creating plan for filling gaps or exploring new technologies/methodologies;
+* holding workshops for sharing knowledge;
+* adding/improving CI/CD for projects, writing documentation if needed;
+* creating prod environments for customers, based on restrictions(cloud vendor, database, etc)
+* investigating in new technologies/methodologies, switching on them if needed.
+* implementing different strategies (caching, file storage, error handling, zero down time update, etc)
 
 
 
@@ -130,8 +129,8 @@ Company - [DataArt](https://www.linkedin.com/company/dataart/)
 
 **From 05/2017 to 01/2019**
 
-Description: Project was related to ETL stak, the main goal was gathering information from different sources and provide aggregated data to the client for future assumptions. ETL was based on scheduled python jobs, which were orchestrated by Jenkins.
-Project details under DNA :(
+Description: Project was related to ETL stak, the main goal was to gather information from different sources and provide aggregated data to the client for future assumptions. ETL was based on scheduled python jobs, which were orchestrated by Jenkins.
+Project details are under DNA :(
 
 Technology stack:
 * Python 3.6
@@ -157,12 +156,12 @@ Languages:	 Python
 Tools:  Python 2.7, CouchDB, Redis, Pytest, Nginx, Ansible, Gevent, RobotFramework
 
 Role:	I was performing / responsible for following tasks:
-* design and implementation of application and its new features;
-* tests creation;
+* design and implementing of application and its new features;
+* writing tests;
 * communication with client;
-* support application, bug fixing;
+* supporting application, bug fixing;
 * leading of a small development team;
-* code review.
+* providing code review.
 
 
 
