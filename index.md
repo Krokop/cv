@@ -1,6 +1,6 @@
 ## Oleh Serbokryl
 
-![me](cv/docs/assets/me1.jpg)
+![me](/cv/docs/assets/me1.jpg)
 
 ### Summary
 Here some thoughts which are describe me as a person:
