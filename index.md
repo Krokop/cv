@@ -1,5 +1,3 @@
-## Oleh Serbokryl
-
 ![me](/cv/docs/assets/me1.jpg)
 
 ### Summary
@@ -17,7 +15,7 @@ Here some thoughts which are describe me as a person:
 
 #### Skills
 * Python (3.7)
-* AsyncIO/Multithreaded/Multiprocessing
+* Concurrent/Multithreaded/Multiprocessing
 * DataBases
   * PostgreSQL
   * Redis
@@ -30,13 +28,15 @@ Here some thoughts which are describe me as a person:
   * Clouds
   * AWS (s3, ec2, lamba, athena, aurora)
   * Azure
+* Python related:
+  * pydantic
+  * pandas
  
 
 -----------
 
 
-### Experience
-
+## Experience
 
 #### Python Team Lead
 
@@ -54,6 +54,7 @@ Technology stack:
 * Gitlab CI/CD
 
 Description: Project goal is to build and support the platform with ready-to-use data for Data Science training models and prod scoring.
+
 Our team is responsible for product that could:
 * enrich data for more than 1 bl transactions into operational DB per day for less than for 10 seconds delay from real-time;
 * creating aggregates on streams for external teams;
