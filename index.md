@@ -33,9 +33,6 @@ Here are some thoughts which describe me as a person:
   * pandas
  
 
------------
-
-
 ## Experience
 
 #### Python Team Lead
