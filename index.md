@@ -1,5 +1,7 @@
 ## Oleh Serbokryl
 
+![me](/cv/assets/least-github-pages/assets/m1.jpg)
+
 ### Summary
 Here some thoughts which are describe me as a person:
 * More time on design - less time on debug.
