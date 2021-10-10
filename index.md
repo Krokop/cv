@@ -156,7 +156,7 @@ Languages:	 Python
 Tools:  Python 2.7, CouchDB, Redis, Pytest, Nginx, Ansible, Gevent, RobotFramework
 
 Role:	I was performing / responsible for following tasks:
-* design and implementing of application and its new features;
+* design and implementation of application and its new features;
 * writing tests;
 * communication with client;
 * supporting application, bug fixing;
@@ -189,7 +189,7 @@ Role:	I was performing / responsible for the following tasks:
 
 Company -- [Favbet](https://favfir.com/)
 
-Description:  The main idea was to accept cash from customers and create bids for them. System was integrated with third-party service which had had users base, we could work only with authorization users. Terminal was responsible for accepting cash, validation user requisites, and sending information to the server. Server was responsible for working with terminals: getting payments, monitoring, sending updates. with main  One of the main requirement was to fault tolerance. On terminal side we used NodeJS, and JavaScript, on server side - Python and Django.
+Description:  The main idea was to accept cash from customers and create bids for them. System was integrated with third-party service which had had users base. We could work only with authorization users. Terminal was responsible for accepting cash, validation user requisites, and sending information to the server. Server was responsible for working with terminals: getting payments, monitoring, sending updates. with main  One of the main requirements was to fault tolerance. On terminal side we used NodeJS, and JavaScript, on server side - Python and Django.
 
 Languages:  Python, JavaScript.
 Tools:  Django, MySQL, NodeJS, Redis, HTML, CSS, JavaScript, jQuery, PostgreSQL, nginx, uWSGI.
@@ -202,7 +202,7 @@ Role:	I was performing / responsible for the following tasks:
 * planning and implementing infrastructure for new system parts;
 
 
-#### Full Stack Develope
+#### Full Stack Developer
 
 Company - [E-pay](http://e-pay.com.ua/)
 
