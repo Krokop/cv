@@ -86,7 +86,7 @@ Technology stack:
 * Kubernetes
 * Gitlab CI/CD
 
-Description: Our goal was to handle risks related to unfair player activities. The heart of the project were modules that gather, validate, transform, normalize data from all possible company sources. We built a product from a scratch, that had a strict SLA for enriching, processing, and retrieving data. 
+Description: Our goal was to handle risks related to unfair player activities. The heart of the project were modules that gather, validate, transform, normalize data from all possible company sources. We built a product from scratch, that had a strict SLA for enriching, processing, and retrieving data. 
 My part of that project was to add new data sources, improv CI/CD, generalize approaches for OLAPing data in operational DB. 
 
 As team member I was responsible for:
