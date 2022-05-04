@@ -14,7 +14,7 @@ Here are some thoughts which describe me as a person:
 ---
 
 #### Skills
-* Python (3.7)
+* Python
 * Concurrent/Multithreaded/Multiprocessing
 * DBs
   * PostgreSQL
