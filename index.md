@@ -92,7 +92,7 @@ As team member I was responsible for:
 * enriching new sources;
 * writing modules for aggregating data;
 * providing infrastructure as a code methodology;
-* implementing CDC in postgres + kakfa;
+* implementing CDC in postgres + Kakfa;
 
 #### Python Team Lead
 
