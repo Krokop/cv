@@ -3,7 +3,7 @@
 ### Summary
 Here are some thoughts which describe me as a person:
 * More time on design - less time on debug.
-* Project/Team goals are more important than personal.
+* Team goals are more important than personal.
 * Company culture build processes and not vice-versa.
 
 
@@ -25,7 +25,7 @@ Here are some thoughts which describe me as a person:
   * Kafka
   * Kubernetes
   * Docker
-  * AWS (S3, EC2, Lambda, Athena, aurora)
+  * AWS (S3, EC2, Lambda, Athena, Aurora)
   * Azure
   * Terraform
   * Kubernetes
@@ -68,7 +68,7 @@ As team member I was responsible for:
 * communication with external teams for providing APIs;
 * grooming and design new modules and instruments for external teams;
 * helping each team member with setting and achieving personal goals;
-* designing infrastructure for new features;
+* designing infrastructure for new features.
 
 #### Python Engineer 
 
@@ -92,7 +92,7 @@ As team member I was responsible for:
 * enriching new sources;
 * writing modules for aggregating data;
 * providing infrastructure as a code methodology;
-* implementing CDC in postgres + Kakfa;
+* implementing CDC in postgres + Kakfa.
 
 #### Python Team Lead
 
