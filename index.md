@@ -25,8 +25,7 @@ Here are some thoughts which describe me as a person:
   * Kafka
   * Kubernetes
   * Docker
-  * Clouds
-  * AWS (s3, ec2, lamba, athena, aurora)
+  * AWS (S3, EC2, Lambda, Athena, aurora)
   * Azure
   * Terraform
   * Kubernetes
@@ -51,7 +50,7 @@ Technology stack:
 * Kubernetes
 * Docker
 * Gitlab CI/CD
-* AWS (lambda, aurora)
+* AWS (Lambda, Aurora)
 
 Description: Project goal is to build and support the platform with ready-to-use data for Data Science training models and prod scoring.
 
