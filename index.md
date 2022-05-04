@@ -10,13 +10,14 @@ Here are some thoughts which describe me as a person:
 #### Contacts
 * email - oserbokryl@gmail.com
 * phone - +38-093-063-54-64
+* telegram - oserbokryl
 
 ---
 
 #### Skills
 * Python
 * Concurrent/Multithreaded/Multiprocessing
-* DBs
+* DB
   * PostgreSQL
   * Redis
   * MongoDB
@@ -29,9 +30,12 @@ Here are some thoughts which describe me as a person:
   * Azure
   * Terraform
   * Kubernetes
+  * KrakenD
+  * GraphQL
 * Python related:
   * pydantic
   * pandas
+  * Strawberry
  
 
 ## Experience
@@ -60,7 +64,7 @@ Our team is responsible for product that can:
 * provide instruments for CDC;
 * provide instruments for OLAPind on operational and historical DBs;
 * manage replication and consistency from operational to historical DBs;
-* gathere fronted data from clients and preparing for post analyzing
+* gathere fronted data from clients and preparing for post analyzing.
 
 As team member I was responsible for:
 * team management with 2 developers and 1 DevOps;
@@ -92,7 +96,7 @@ As team member I was responsible for:
 * enriching new sources;
 * writing modules for aggregating data;
 * providing infrastructure as a code methodology;
-* implementing CDC in postgres + Kakfa.
+* implementing CDC in postgres + Kafka.
 
 #### Python Team Lead
 
