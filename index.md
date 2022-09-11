@@ -10,33 +10,40 @@ Here are some thoughts which describe me as a person:
 #### Contacts
 * email - oserbokryl@gmail.com
 * phone - +38-093-063-54-64
-* telegram - oserbokryl
+* telegram - [oserbokryl](https://t.me/oserbokryl)
+* linkedin - [oserbokryl](https://www.linkedin.com/in/oleh-serbokryl-79b864101/)
 
 ---
 
 #### Skills
-* Python
+* Python3.X
 * Concurrent/Multithreaded/Multiprocessing
 * DB
   * PostgreSQL
   * Redis
   * MongoDB
-* Other
-  * FastAPI
-  * Kafka
-  * Kubernetes
-  * Docker
-  * AWS (S3, EC2, Lambda, Athena, Aurora)
-  * Azure
-  * Terraform
-  * Kubernetes
-  * KrakenD
+  * Aurora(PostgreSQL)
+* API Related
   * GraphQL
-* Python related:
-  * pydantic
-  * pandas
+  * REST
+  * FastAPI
+  * KrakenD
   * Strawberry
- 
+* Data Related:
+  * Athena
+  * Aurora
+  * AWS Lambda
+* DevOPS
+  * Docker
+  * Kubernetes
+  * Gitlab CI
+  * Helm
+* Monitoring
+  * Prometheus
+  * Grafana
+  * ELK
+  * Sentry
+  * AWS CloudWatch
 
 ## Experience
 
@@ -44,17 +51,17 @@ Here are some thoughts which describe me as a person:
 
 Company - [Parimatch Tech](https://www.linkedin.com/company/parimatch-tech-career/mycompany/)
 
-**From 10/2020 to Present**
+**From 10/2020 to 09/2022**
 
-Technology stack:
+Stack:
 * Python 3.7
 * Kafka
+* GraphQL
 * PostgreSQL
-* MSSQL
 * Kubernetes
 * Docker
 * Gitlab CI/CD
-* AWS (Lambda, Aurora)
+* AWS (Lambda, Aurora, Athena)
 
 Description: Project goal is to build and support the platform with ready-to-use data for Data Science training models and prod scoring.
 
@@ -74,13 +81,13 @@ As team member I was responsible for:
 * helping each team member with setting and achieving personal goals;
 * designing infrastructure for new features.
 
-#### Python Engineer 
+#### Python Engineer
 
 Company - [PMLAB](https://www.linkedin.com/company/pmlab-global/)
 
 **From 02/2020 to 10/2020**
 
-Technology stack:
+Stack:
 * Python 3.7
 * Kafka
 * Docker
@@ -89,8 +96,8 @@ Technology stack:
 * Kubernetes
 * Gitlab CI/CD
 
-Description: Our goal was to handle risks related to unfair player activities. The heart of the project were modules that gather, validate, transform, normalize data from all possible company sources. We built a product from scratch, that had a strict SLA for enriching, processing, and retrieving data. 
-My part of that project was to add new data sources, improve CI/CD, generalize approaches for OLAPing data in operational DB. 
+Description: Our goal was to handle risks related to unfair player activities. The heart of the project were modules that gather, validate, transform, normalize data from all possible company sources. We built a product from scratch, that had a strict SLA for enriching, processing, and retrieving data.
+My part of that project was to add new data sources, improve CI/CD, generalize approaches for OLAPing data in operational DB.
 
 As team member I was responsible for:
 * enriching new sources;
@@ -106,7 +113,7 @@ Company - [TSEH-2.0](https://www.linkedin.com/company/tseh-2-0/about/)
 
 Description: Two main projects were focused on online sales. Idea was to write projects from scratch be client requirements. There were two teams with 2 backend and 2 frontend engineers.
 
-Technology stack:
+Stack:
 * Python 3.6
 * Gitlab for CI/CD
 * Django
@@ -135,7 +142,7 @@ Company - [DataArt](https://www.linkedin.com/company/dataart/)
 Description: Project was related to ETL stak, the main goal was to gather information from different sources and provide aggregated data to the client for future assumptions. ETL was based on scheduled python jobs, which were orchestrated by Jenkins.
 Project details are under DNA :(
 
-Technology stack:
+Stack:
 * Python 3.6
 * PostgreSQL
 * Docker
@@ -179,7 +186,7 @@ Description:  The main goal of the project was to create web-application which w
 Languages:  Python, JavaScript.
 Tools:  Python 3.4, MySQL Pytest, ElasticSearch, Celery.
 
-Role:	I was performing / responsible for the following tasks: 
+Role:	I was performing / responsible for the following tasks:
 * refactoring legacy parts with adding new function, unit test achieved as side effects
 * design and implementation of application and its new features;
 * deployment;
@@ -197,7 +204,7 @@ Description:  The main idea was to accept cash from customers and create bids fo
 Languages:  Python, JavaScript.
 Tools:  Django, MySQL, NodeJS, Redis, HTML, CSS, JavaScript, jQuery, PostgreSQL, nginx, uWSGI.
 
-Role:	I was performing / responsible for the following tasks: 
+Role:	I was performing / responsible for the following tasks:
 * design and implementation of application and its new features;
 * improving CI/CD technics;
 * covering code base with unittests;
@@ -214,9 +221,9 @@ Company - [E-pay](http://e-pay.com.ua/)
 Description: The main goal of project was to accept payments from customers and pay for the services they had chosen. Terminals were responsible for accepting cash, validation user requisites, and sending information to the server. Server was responsible for working with terminals: getting payments, monitoring, sending updates. One of the main requirements was to fault tolerance. On terminal side we used NodeJS, and JavaScript, on server side - Python and Django.
 
 Languages: Python, JavaScript.
-Tools: Django, MySQL, NodeJS, Redis, HTML, CSS, JavaScript, jQuery, Ajax, PostgreSQL, nginx, uWSGI, Bootstrap 
+Tools: Django, MySQL, NodeJS, Redis, HTML, CSS, JavaScript, jQuery, Ajax, PostgreSQL, nginx, uWSGI, Bootstrap
 
-Role:	I was performing / responsible for the following tasks: 
+Role:	I was performing / responsible for the following tasks:
 * design and implementation of application and its new features;
 * deployment;
 * tests creation;
