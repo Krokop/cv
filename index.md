@@ -1,4 +1,4 @@
-![me](/cv/docs/assets/me1.jpg)
+![me](/cv/docs/assets/me_crop.jpg)
 
 ### Summary
 Here are some thoughts which describe me as a person:
