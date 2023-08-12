@@ -1,2 +1,4 @@
 theme: jekyll-theme-merlot
 title: Serbokryl Oleh
+encoding: "utf-8"
+compress-site: yes
